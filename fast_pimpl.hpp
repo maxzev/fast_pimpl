@@ -13,7 +13,6 @@
  * compile time error => wrong values are safe (see validate func).
  */
 
-#include <cstring>
 
 namespace utils {
 
